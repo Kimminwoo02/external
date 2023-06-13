@@ -24,5 +24,5 @@ public class EnvironmentCheck {
         log.info("env username={}",username);
         log.info("env password={}",password);
     }
-    
+
 }
